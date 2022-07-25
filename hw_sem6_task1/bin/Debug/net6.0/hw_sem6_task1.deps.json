@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw_sem6_task1/1.0.0": {
+        "runtime": {
+          "hw_sem6_task1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_sem6_task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
